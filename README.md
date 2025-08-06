@@ -48,3 +48,12 @@ file: eslint.config.mjs
 
 ===================================
 Shadcn THEME: https://ui.shadcn.com/themes#themes
+
+=============
+ORM DRIZZLE = https://orm.drizzle.team/docs/get-started/postgresql-new
+
+npx drizzle-kit push - subir tudo
+npx drizzle-kit studio - ambiente do drizzle
+seed: npx tsx --env-file=.env src/db/seed.ts
+
+NEON DB = PARA RODAR POSTGRES, MAS POSSO RODAR COM DOCKER
