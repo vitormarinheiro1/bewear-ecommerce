@@ -57,3 +57,6 @@ npx drizzle-kit studio - ambiente do drizzle
 seed: npx tsx --env-file=.env src/db/seed.ts
 
 NEON DB = PARA RODAR POSTGRES, MAS POSSO RODAR COM DOCKER
+
+
+autenticacao: npm i better-auth
